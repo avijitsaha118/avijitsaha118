@@ -1,5 +1,7 @@
 ### Hi 👋
 
+![I am a Junior Front-end developer. ](https://github.com/avijitsaha118/avijitsaha118/blob/main/images/banner.png)
+
 <h1 align="center">I'm Avijit Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
